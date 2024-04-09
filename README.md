@@ -2,7 +2,7 @@
 
 Welcome to my github. I'm a CS specially interested in programming and system administration.
 
-Here you'll find some bits of code which I hope you find useful or instructive. 
+Here you'll find some bits of code which I hope you find useful or instructive. Code includes components for Yii, Svelte, Go, some utilities and other goodies.
 
 Also feel free to visit my profiles:
 
