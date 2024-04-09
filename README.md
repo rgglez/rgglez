@@ -1,6 +1,8 @@
 # Sup! 🤖
 
-Welcome to my github. You'll find some bits of code which I hope you find useful or instructive. 
+Welcome to my github. I'm a CS specially interested in programming and system administration.
+
+Here you'll find some bits of code which I hope you find useful or instructive. 
 
 Also feel free to visit my profiles:
 
