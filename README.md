@@ -1,2 +1,1 @@
-# .github
-Global readme
+Hello world
