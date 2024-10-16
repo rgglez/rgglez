@@ -11,7 +11,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### My tech stack
 
-[![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,azure,bootstrap,cmake,docker,dotnet,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
+[![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,azure,bootstrap,cmake,docker,dotnet,elasticsearch,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
 
 ... plus some others (aliyun, dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi, yii ...)
 
