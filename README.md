@@ -11,6 +11,8 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### My languages
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,perl,go,php,bash,asm,pascal)](https://skillicons.dev)
+
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" title="c" alt="c" width="50" height="50" />
