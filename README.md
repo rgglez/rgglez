@@ -11,15 +11,15 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### My tech stack
 
-[![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,bootstrap,cmake,docker,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
+[![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,azure,bootstrap,cmake,docker,dotnet,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
 
-... plus some others (dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi...)
+... plus some others (aliyun, dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi, yii ...)
 
 ### My languages
 
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,perl,go,php,bash,cs,css,html,r)](https://skillicons.dev)
 
-... plus some others (Prolog, Lisp, 8088 ASM, Pascal, Modula2...)
+... plus some others (Prolog, Lisp, 8088 ASM, Pascal, Modula2 ...)
 
 ### Statistics
 
