@@ -17,8 +17,10 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### My languages
 
-[![My Languages](https://skillicons.dev/icons?i=bash,basic,css,c,cs,cpp,go,html,js,perl,php,py,r,vb)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=bash,css,c,cs,cpp,go,html,js,perl,php,py,r)](https://skillicons.dev)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
 ... and some others such as Prolog, Lisp, 8088 ASM, Pascal, Modula2 ...
 
 ### Statistics
