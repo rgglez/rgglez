@@ -19,6 +19,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" alt="yaml" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" alt="C++" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="javascript" width="50" height="50" />
+<img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Camel.svg" alt="perl" width="50" height="50" />
 </p>
 
 ### Statistics
