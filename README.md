@@ -9,7 +9,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 - [LinkedIn](https://www.linkedin.com/in/rggonzalez/)
 - [Buy me a pizza](https://www.buymeacoffee.com/rggonzalez)
 
-### My tech stack
+### My tech skills
 
 [![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,azure,bootstrap,cmake,docker,dotnet,elasticsearch,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
 
