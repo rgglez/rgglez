@@ -12,7 +12,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 ### My admin/tech skills
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-wordmark-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-wordmark.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="40" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" width="40" />
