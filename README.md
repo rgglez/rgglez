@@ -13,12 +13,12 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="50" height="50" />
-<img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="50" height="50" />
-<img src="https://www.vectorlogo.zone/logos/go/go-icon.svg" alt="yaml" width="50" height="50" />
-<img src="https://www.vectorlogo.zone/logos/go/go-icon.svg" alt="yaml" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" title="c" alt="c" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" title="Python" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" alt="php" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" alt="yaml" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" alt="C++" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="javascript" width="50" height="50" />
 </p>
 
 ### Statistics
