@@ -35,6 +35,8 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" />
 </div>
 
 ... and some others such as aliyun, dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi, yii, jabberd, irc, nagios ...
