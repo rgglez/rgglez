@@ -9,20 +9,13 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 - [LinkedIn](https://www.linkedin.com/in/rggonzalez/)
 - [Buy me a pizza](https://www.buymeacoffee.com/rggonzalez)
 
+### My tech stack
+
 ### My languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,perl,go,php,bash,asm,pascal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,perl,go,php,bash)](https://skillicons.dev)
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" title="c" alt="c" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" title="Python" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" alt="php" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" alt="yaml" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" alt="C++" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="javascript" width="50" height="50" />
-<img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Camel.svg" alt="perl" width="50" height="50" />
-</p>
+... plus some others (Prolog, Lisp, 8088 ASM, Pascal, Modula2...)
 
 ### Statistics
 
