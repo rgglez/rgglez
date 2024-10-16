@@ -9,17 +9,17 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 - [LinkedIn](https://www.linkedin.com/in/rggonzalez/)
 - [Buy me a pizza](https://www.buymeacoffee.com/rggonzalez)
 
-### My tech skills
+### My admin/tech skills
 
 [![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,azure,bootstrap,cmake,docker,dotnet,elasticsearch,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
 
-... plus some others (aliyun, dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi, yii ...)
+... and some others such as aliyun, dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi, yii, jabberd, irc ...
 
 ### My languages
 
 [![My Languages](https://skillicons.dev/icons?i=bash,css,c,cs,cpp,go,html,js,perl,php,py,r)](https://skillicons.dev)
 
-... plus some others (Prolog, Lisp, 8088 ASM, Pascal, Modula2 ...)
+... and some others such as Prolog, Lisp, 8088 ASM, Pascal, Modula2 ...
 
 ### Statistics
 
