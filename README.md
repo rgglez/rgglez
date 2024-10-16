@@ -13,6 +13,10 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 [![My Tech Skills](https://skillicons.dev/icons?i=ableton,ansible,aws,azure,bootstrap,cmake,docker,dotnet,elasticsearch,github,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,redhat,regex,sqlite,svelte,ubuntu,vscode)](https://skillicons.dev)
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" height="40" width="40" />
+</div>
+
 ... and some others such as aliyun, dovecot, postfix, memcached, varnish, jasper reports, bbb, jitsi, yii, jabberd, irc ...
 
 ### My languages
