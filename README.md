@@ -19,7 +19,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 [![My Languages](https://skillicons.dev/icons?i=bash,css,c,cs,cpp,go,html,js,perl,php,py,r)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="32" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" height="40" width="40" />
           
 ... and some others such as Prolog, Lisp, 8088 ASM, Pascal, Modula2 ...
 
