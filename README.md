@@ -17,7 +17,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### My languages
 
-[![My Languages](https://skillicons.dev/icons?i=bash,c,css,cs,cpp,go,html,js,perl,php,py,r)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=bash,css,c,cs,cpp,go,html,js,perl,php,py,r)](https://skillicons.dev)
 
 ... plus some others (Prolog, Lisp, 8088 ASM, Pascal, Modula2 ...)
 
