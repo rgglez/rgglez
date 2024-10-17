@@ -69,6 +69,14 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rgglez)](https://git.io/streak-stats)  
-![Stats](https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie)
+<table>
+  <tr>
+    <td>
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=rgglez)](https://git.io/streak-stats)  
+      ![Stats](https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs)<br />
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie)
+    </td>
+  </tr>
+</table>
