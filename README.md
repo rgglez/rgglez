@@ -75,6 +75,6 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
     <img src="https://streak-stats.demolab.com/?user=rgglez" />
   </div>
   <div style="flex: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" />
   </div>
 </div>
