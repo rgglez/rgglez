@@ -71,14 +71,14 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 <div style="display: flex; flex-wrap: nowrap;">
   <!-- Left Column: Two images, one above the other -->
-  <div style="flex: 60%; display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" />
+  <div style="flex: 60%; display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+    <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </div>
-
   <!-- Right Column: Pie chart -->
   <div style="flex: 40%; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" style="max-width: 100%; height: auto;" />
   </div>
 </div>
+
 
