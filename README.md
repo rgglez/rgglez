@@ -72,7 +72,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 <div style="display: grid; grid-template-columns: 60% 40%; gap: 20px;">
   <!-- Left Column: Two images, one above the other -->
   <div style="display: grid; grid-template-rows: auto auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" /><br />
     <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" />
   </div>
   <!-- Right Column: Pie chart -->
