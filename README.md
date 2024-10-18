@@ -72,7 +72,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 <div style="display: flex; flex-wrap: nowrap;">
   <!-- Left Column: Two images, one above the other -->
   <div style="flex: 50%!important; display: flex; flex-direction: column; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 100%; height: auto;" /><br />
     <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </div>
   <!-- Right Column: Pie chart -->
