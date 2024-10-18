@@ -69,15 +69,17 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### Statistics
 
-<div style="display: grid; grid-template-columns: 60% 40%; gap: 1em;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" style="max-width: 100%; height: auto;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-    <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" style="max-width: 100%; height: auto;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+      <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 
 
