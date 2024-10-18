@@ -69,18 +69,12 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### Statistics
 
-<table>
-  <tr>
-    <th style="width: 70%;">Stats</th>
-    <th style="width: 30%;">Languages</th>
-  </tr>
-  <tr>
-    <td>
+<div style="display: flex;">
+  <div style="flex: 70%; padding-right: 10px;">
       ![Stats](https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs)  
       [![GitHub Streak](https://streak-stats.demolab.com/?user=rgglez)](https://git.io/streak-stats) 
-    </td>
-    <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie)
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 30%;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie)
+  </div>
+</div>
