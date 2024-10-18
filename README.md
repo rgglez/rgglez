@@ -70,11 +70,11 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 ### Statistics
 
 <div style="display: flex;">
-  <div style="flex: 70%; padding-right: 10px;">
+  <div style="flex: 60%;">
     <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" />
     <img src="https://streak-stats.demolab.com/?user=rgglez" />
   </div>
-  <div style="flex: 30%;">
+  <div style="flex: 40%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" />
   </div>
 </div>
