@@ -69,16 +69,19 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### Statistics
 
-<div style="display: flex; flex-wrap: nowrap; max-width: 100%;">
+<div style="display: grid; grid-template-columns: 60% 40%; gap: 20px;">
+
   <!-- Left Column: Two images, one above the other -->
-  <div style="flex: 50%!important; display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 50%; height: auto;" /><br />
-    <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 50%; height: auto;" />
+  <div style="display: grid; grid-template-rows: auto auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="width: 100%;" />
+    <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="width: 100%;" />
   </div>
+
   <!-- Right Column: Pie chart -->
-  <div style="flex: 50%!important; display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" style="max-width: 100%; height: auto;" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" style="width: 100%;" />
   </div>
+
 </div>
 
 
