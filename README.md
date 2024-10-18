@@ -69,7 +69,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### Statistics
 
-<div style="display: grid; grid-template-columns: 60% 40%; gap: 20px;">
+<div style="display: grid; grid-template-columns: 70% 30%; gap: 20px;">
   <!-- Left Column: Two images, one above the other -->
   <div style="display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
@@ -79,7 +79,6 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" alt="Top Languages Pie Chart" style="max-width: 100%; height: auto;" />
   </div>
-
 </div>
 
 
