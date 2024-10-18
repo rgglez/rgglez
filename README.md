@@ -72,7 +72,7 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 <div style="display: flex;">
   <div style="flex: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=rgglez&hide=contribs,prs" /><br />
-    <img src="https://streak-stats.demolab.com/?user=rgglez" />
+    <img src="https://streak-stats.demolab.com/?user=rgglez" style="max-width:250px;" />
   </div>
   <div style="flex: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=pie" />
