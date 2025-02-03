@@ -43,6 +43,8 @@ Here you'll find some bits of code which I hope you find useful or instructive. 
 
 ### My languages
 
+In more or less degree, I have worked with the following languages:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/awk/awk-original-wordmark.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" />
