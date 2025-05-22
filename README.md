@@ -1,8 +1,10 @@
 # Sup! 🤖
 
-Welcome to my github. I'm a CS specially interested in programming and systems administration.
+Welcome to my GitHub! I'm a computer science enthusiast with a special interest in programming and systems administration.
 
-Here you'll find some bits of code which I hope you find useful or instructive. Code includes components for Yii, Svelte, Go, some utilities and other goodies.
+Here, you'll find various code snippets that I hope you'll find either useful or instructive. The code includes components for Yii, Svelte, Go, Python, PHP and some other languages and frameworks, as well as several utilities and other helpful resources.
+
+Repositories that are not forked and have tags were programmed by me. Forked repositories with tags indicate that I made modifications to their original code. Untagged repositories are just backups.
 
 ### My sites
 
