@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a computer science enthusiast with a special interest 
 
 Here, you'll find various code snippets that I hope you'll find either useful or instructive. The code includes components for Yii, Svelte, Go, Python, PHP and some other languages and frameworks, as well as several utilities and other helpful resources.
 
-Repositories that are not forked and have tags were programmed by me. Forked repositories with tags indicate that I made modifications to their original code. Untagged repositories are just backups. Tags are "topics" in GitHub terminology, BTW.
+Repositories that are not forked and have tags were programmed by me. Forked repositories with tags indicate that I made modifications to the original code. Untagged repositories are just backups. Tags are called "topics" in GitHub terminology, by the way.
 
 ### My sites
 
