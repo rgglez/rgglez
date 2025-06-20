@@ -75,7 +75,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![.NET](https://img.shields.io/badge/-.NET-512ad5?logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7b12f8?logo=Bootstrap&logoColor=white)
 
-#### System administration
+#### Systems administration
 
 ![Apache](https://img.shields.io/badge/-Apache-b02050?logo=Apache&logoColor=white)
 ![nginx](https://img.shields.io/badge/-nginx-009901?logo=nginx&logoColor=white) 
