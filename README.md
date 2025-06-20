@@ -32,6 +32,19 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 - **VMware ESXi** basic administration and maintenance.  
 - **Cloud administration** (**Amazon AWS**, **Alibaba Cloud (Aliyun)**, **Microsoft Azure**). 
 
+---
+
+### 💬 Contact me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rggonzalez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:70px;">
+  </a>
+  <a href="https://www.buymeacoffee.com/rggonzalez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=rggonzalez&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" style="width:110px;" /></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### Main programming languages
@@ -148,15 +161,4 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rgglez&theme=onedark&row=2&column=4" alt="Trophies" />
-</p>
-
----
-
-### 💬 Follow me
-
-<p align="center">
-  <a href="https://linkedin.com/in/rggonzalez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:70px;">
-  </a>
-  <a href="https://www.buymeacoffee.com/rggonzalez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=rggonzalez&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" style="width:110px;" /></a>
 </p>
