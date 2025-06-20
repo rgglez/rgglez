@@ -56,7 +56,6 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Perl](https://img.shields.io/badge/-Perl-212178?logo=Perl&logoColor=white)
 ![C](https://img.shields.io/badge/-C-03599c?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C-03599c?logo=cplusplus&logoColor=white)
-![VB](https://img.shields.io/badge/-VisualBasic-195f97?logo=VB&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-ffffff?logo=SQL&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-000000?logo=Bash&logoColor=white)
 
@@ -69,6 +68,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![R](https://img.shields.io/badge/-R-b5b7bb?logo=R&logoColor=black)
 ![Pascal](https://img.shields.io/badge/-Pascal-ffffff?logo=Pascal&logoColor=black)
 ![Assembly](https://img.shields.io/badge/-Assembly%208088-000000?logo=Assembly&logoColor=white)
+![VB](https://img.shields.io/badge/-VisualBasic-195f97?logo=VB&logoColor=white)
 
 #### Design and markup tools
 
