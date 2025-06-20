@@ -36,7 +36,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 
 ### 💬 Contact me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/rggonzalez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:70px;">
   </a>
