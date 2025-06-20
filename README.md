@@ -147,6 +147,15 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Livingston Portmaster](https://img.shields.io/badge/-Livingston%20Portmaster-9a6457?logo=Livingston&logoColor=white)
 ![Tachyon Networks](https://img.shields.io/badge/-Tachyon%20Networks-a02e52?logo=TachyonNetworks&logoColor=white)
 
+#### Creativity
+
+![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-ffffff?logo=AbletonLive&logoColor=black)
+![StudioOne](https://img.shields.io/badge/-StudioOne-ffffff?logo=Presonus&logoColor=black)
+![Audacity](https://img.shields.io/badge/-Audacity-f3e417?logo=Audacity&logoColor=black)
+![Adobe Premier](https://img.shields.io/badge/-Adobe%20Premier-ea0f00?logo=Adobe&logoColor=white)
+![Gimp](https://img.shields.io/badge/-Gimp-868372?logo=Gimp&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-ea0f00?logo=Adobe&logoColor=white)
+
 ---
 
 ### 📊 GitHub statistics
