@@ -19,7 +19,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 
 #### **Developer | 25+ Years of Experience**  
 
-- Development of **static websites**, **SPAs**, and **SSR web applications**, including high-traffic distributed applications serving millions of users. **Architecture design** and **full-stack programming**.  
+- Development of **static websites**, **SPAs**, and **SSR web applications**, including high-traffic distributed applications serving millions of users, involving multinational teams. **Architecture design** and **full-stack programming**.  
 - Development of **desktop applications** for **Microsoft Windows**.  
 
 #### **Systems Administrator | 25+ Years of Experience**  
