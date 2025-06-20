@@ -32,7 +32,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 - **VMware ESXi** basic administration and maintenance.  
 - **Cloud administration** (**Amazon AWS**, **Alibaba Cloud (Aliyun)**, **Microsoft Azure**). 
 
-### 🛠️ Tools
+### 🛠️ Tech Stack
 
 #### Main programming languages
 
