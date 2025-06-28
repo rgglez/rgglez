@@ -1,4 +1,4 @@
-<h1 align="left">👋 Sup, I'm Rodolfo González</h1>
+<h1 align="left">Sup, I'm Rodolfo González</h1>
 <h3 align="center">💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</h3>
 
 <p align="center">
