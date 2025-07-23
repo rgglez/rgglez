@@ -111,6 +111,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![CentOS](https://img.shields.io/badge/-CentOS-a34f89?logo=CentOS&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51a2db?logo=Fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ea510e?logo=Ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-d70651?logo=Debian&logoColor=white)
 ![Slackware](https://img.shields.io/badge/-Slackware-ffffff?logo=Slackware&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-f09215?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3f5f91?logo=PostgreSQL&logoColor=white)
