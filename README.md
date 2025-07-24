@@ -108,7 +108,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![AWK](https://img.shields.io/badge/-AWK-000000?logo=AWK&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-ffffff?logo=cmake&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-f5be04?logo=Linux&logoColor=black)
 ![CentOS](https://img.shields.io/badge/-CentOS-a34f89?logo=CentOS&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51a2db?logo=Fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ea510e?logo=Ubuntu&logoColor=white)
