@@ -98,7 +98,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Dovecot](https://img.shields.io/badge/-Dovecot-4fc0ae?logo=dovecot&logoColor=white)
 ![RoudCube](https://img.shields.io/badge/-RoundCube-37beff?logo=roundcube&logoColor=white)
 ![Zitadel](https://img.shields.io/badge/-Zitadel-ff36a0?logo=Zitadelot&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=Ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-ffffff?logo=Ansible&logoColor=black)
 ![Nagios](https://img.shields.io/badge/-Nagios-000000?logo=Nagios&logoColor=white)
 ![Cacti](https://img.shields.io/badge/-Cacti-239914?logo=cacti&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-ff9900?logo=AmazonWebServices&logoColor=black)
