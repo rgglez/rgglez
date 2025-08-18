@@ -133,6 +133,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![TinyDNS](https://img.shields.io/badge/-TinyDNS-000000?logo=TinyDNS&logoColor=white)
 ![Bind](https://img.shields.io/badge/-Bind-000000?logo=Bind&logoColor=white)
 ![Samba](https://img.shields.io/badge/-samba-000000?logo=samba&logoColor=white)
+![Squid](https://img.shields.io/badge/-Squid-000000?logo=Squid&logoColor=white)
 ![Varnish](https://img.shields.io/badge/-Varnish-000000?logo=Varnish&logoColor=white)
 ![Fluentd](https://img.shields.io/badge/-Fluentd-62a6db?logo=Fluentd&logoColor=white)
 ![fluent-bit](https://img.shields.io/badge/-fluentbit-62a6db?logo=FluentBit&logoColor=white)
