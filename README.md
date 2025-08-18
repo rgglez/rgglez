@@ -40,7 +40,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
   <a href="https://linkedin.com/in/rggonzalez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:70px;">
   </a>
-  <a href="https://www.buymeacoffee.com/rggonzalez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=rggonzalez&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" style="width:110px;" alt="BuyMeACoffee" /></a>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rggonzalez" data-color="#FFDD00" data-emoji="🍕"  data-font="Cookie" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 </p>
 
 ---
