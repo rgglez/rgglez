@@ -1,5 +1,5 @@
 % Statistics for rgglez/gofiber-zitadel-middleware
-% Generated for [rgglez/gofiber-zitadel-middleware](https://github.com/rgglez/gofiber-zitadel-middleware) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-05 06:38 UTC.
+% Generated for [rgglez/gofiber-zitadel-middleware](https://github.com/rgglez/gofiber-zitadel-middleware) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-05 23:26 UTC.
 
 
 ## Views
