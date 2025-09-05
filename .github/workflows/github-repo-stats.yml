@@ -29,7 +29,6 @@ jobs:
           'rgglez/fc-exchange-rate-update',
           'rgglez/fc-gomail',
           'rgglez/fc-webpage-screenshot',
-          'rgglez/fireclub-configurator',
           'rgglez/games-syg',
           'rgglez/gettext-extractor',
           'rgglez/gettext-po2json',
