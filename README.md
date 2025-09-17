@@ -51,7 +51,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Python](https://img.shields.io/badge/-Python-3670a0?logo=Python&logoColor=white)
 ![Perl](https://img.shields.io/badge/-Perl-212178?logo=Perl&logoColor=white)
 ![C](https://img.shields.io/badge/-C-03599c?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C-03599c?logo=cplusplus&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ![SQL](https://img.shields.io/badge/-SQL-ffffff?logo=SQL&logoColor=black)
 
 #### Secondary programming languages
