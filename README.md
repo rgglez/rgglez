@@ -36,10 +36,8 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 
 ### 💬 Contact me
 
-<div style="height:20px;">
-  <a href="https://linkedin.com/in/rggonzalez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:70px;"></a>
-  <a href="https://bmc.link/rggonzalez">[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)</a>
-</div>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/rggonzalez)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)]([#](https://bmc.link/rggonzalez))
 
 ---
 
