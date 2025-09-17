@@ -45,7 +45,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 
 #### Main programming languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?logo=javascript&logoColor=black)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?logo=PHP&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-6ad7e5?logo=Go&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3670a0?logo=Python&logoColor=white)
@@ -73,16 +73,19 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Latex](https://img.shields.io/badge/-LaTeX-008181?logo=Latex&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-005faf?logo=XML&logoColor=white)
 ![Docbook](https://img.shields.io/badge/-Docbook-005faf?logo=Docbook&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-cb171e?logo=Yaml&logoColor=white)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 #### Front- and back-end programming frameworks
 
 ![jQuery](https://img.shields.io/badge/-jQuery-0968a6?logo=jQuery&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?logo=Svelte&logoColor=white)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 ![Yii](https://img.shields.io/badge/-Yii-1e6cab?logo=Yii&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-ff291a?logo=Laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512ad5?logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7b12f8?logo=Bootstrap&logoColor=white)
+[![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 
 #### Systems administration
 
@@ -94,9 +97,9 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Dovecot](https://img.shields.io/badge/-Dovecot-4fc0ae?logo=dovecot&logoColor=white)
 ![RoudCube](https://img.shields.io/badge/-RoundCube-37beff?logo=roundcube&logoColor=white)
 ![Zitadel](https://img.shields.io/badge/-Zitadel-ff36a0?logo=Zitadelot&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-ffffff?logo=Ansible&logoColor=black)
 ![Nagios](https://img.shields.io/badge/-Nagios-000000?logo=Nagios&logoColor=white)
 ![Cacti](https://img.shields.io/badge/-Cacti-239914?logo=cacti&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-ffffff?logo=Ansible&logoColor=black)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
@@ -104,6 +107,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![VMWare](https://img.shields.io/badge/-VMWare-0679c4?logo=VMWare&logoColor=white)
 ![AWK](https://img.shields.io/badge/-AWK-000000?logo=AWK&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-ffffff?logo=cmake&logoColor=black)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-f5be04?logo=Linux&logoColor=black)
 ![CentOS](https://img.shields.io/badge/-CentOS-a34f89?logo=CentOS&logoColor=white)
@@ -112,6 +116,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Debian](https://img.shields.io/badge/-Debian-d70651?logo=Debian&logoColor=white)
 [![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)
 ![Slackware](https://img.shields.io/badge/-Slackware-ffffff?logo=Slackware&logoColor=black)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/-MySQL-f09215?logo=mysql&logoColor=white)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3f5f91?logo=PostgreSQL&logoColor=white)
@@ -125,7 +130,9 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008dff?logo=Neo4j&logoColor=white)
 ![AgensGraph](https://img.shields.io/badge/-AgensGraph-2255ff?logo=AgensGraph&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-00bfb4?logo=Elasticsearch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05232?logo=Git&logoColor=white)
+[![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-76b55b?logo=node.js&logoColor=white)
 ![Jasper Reports](https://img.shields.io/badge/-Jasper%20Reports-0783ce?logo=jasper&logoColor=white)
 ![Jabber](https://img.shields.io/badge/-Jabber-c91125?logo=jabber&logoColor=white)
@@ -142,6 +149,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![IRC](https://img.shields.io/badge/-IRC-ffffff?logo=IRC&logoColor=black)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-02719c?logo=Wordpress&logoColor=white)
 ![Moodle](https://img.shields.io/badge/-Moodle-ea812a?logo=Moodle&logoColor=white)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
 
 #### Hardware
 
