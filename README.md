@@ -137,7 +137,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![fluent-bit](https://img.shields.io/badge/-fluentbit-62a6db?logo=FluentBit&logoColor=white)
 ![Jitsi](https://img.shields.io/badge/-Jitsi-ffd996?logo=Jitsi&logoColor=black)
 ![BigBlueButton](https://img.shields.io/badge/-BigBlueButton-474c84?logo=BigBlueButton&logoColor=white)
-![OpenMeetings](https://img.shields.io/badge/-OpenMeetings-474c84?logo=BigBlueButton&logoColor=white)
+![OpenMeetings](https://img.shields.io/badge/-OpenMeetings-db9563?logo=OpenMeetings&logoColor=white)
 ![IRC](https://img.shields.io/badge/-IRC-ffffff?logo=IRC&logoColor=black)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-02719c?logo=Wordpress&logoColor=white)
 ![Moodle](https://img.shields.io/badge/-Moodle-ea812a?logo=Moodle&logoColor=white)
