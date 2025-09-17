@@ -110,6 +110,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Fedora](https://img.shields.io/badge/-Fedora-51a2db?logo=Fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ea510e?logo=Ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-d70651?logo=Debian&logoColor=white)
+[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)
 ![Slackware](https://img.shields.io/badge/-Slackware-ffffff?logo=Slackware&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-f09215?logo=mysql&logoColor=white)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
