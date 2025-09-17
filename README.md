@@ -59,7 +59,7 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 ![Prolog](https://img.shields.io/badge/-Prolog-195f97?logo=Prolog&logoColor=white)
 ![Lisp](https://img.shields.io/badge/-Lisp-195f97?logo=Lisp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-d60020?logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-Csharp-842627?logo=C#&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![R](https://img.shields.io/badge/-R-b5b7bb?logo=R&logoColor=black)
 ![Pascal](https://img.shields.io/badge/-Pascal-ffffff?logo=Pascal&logoColor=black)
 ![Assembly](https://img.shields.io/badge/-Assembly%208088-000000?logo=Assembly&logoColor=white)
