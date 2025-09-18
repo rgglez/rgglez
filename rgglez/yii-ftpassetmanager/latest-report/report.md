@@ -1,5 +1,5 @@
 % Statistics for rgglez/yii-ftpassetmanager
-% Generated for [rgglez/yii-ftpassetmanager](https://github.com/rgglez/yii-ftpassetmanager) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-16 23:46 UTC.
+% Generated for [rgglez/yii-ftpassetmanager](https://github.com/rgglez/yii-ftpassetmanager) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-09-18 00:06 UTC.
 
 
 ## Views
