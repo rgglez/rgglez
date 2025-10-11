@@ -1,5 +1,5 @@
 % Statistics for rgglez/nagios-check-domain
-% Generated for [rgglez/nagios-check-domain](https://github.com/rgglez/nagios-check-domain) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-10 23:34 UTC.
+% Generated for [rgglez/nagios-check-domain](https://github.com/rgglez/nagios-check-domain) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-11 23:33 UTC.
 
 
 ## Views
