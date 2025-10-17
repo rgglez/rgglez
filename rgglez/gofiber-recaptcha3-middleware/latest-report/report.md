@@ -1,5 +1,5 @@
 % Statistics for rgglez/gofiber-recaptcha3-middleware
-% Generated for [rgglez/gofiber-recaptcha3-middleware](https://github.com/rgglez/gofiber-recaptcha3-middleware) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-16 23:28 UTC.
+% Generated for [rgglez/gofiber-recaptcha3-middleware](https://github.com/rgglez/gofiber-recaptcha3-middleware) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-17 23:26 UTC.
 
 
 ## Views
