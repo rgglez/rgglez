@@ -1,5 +1,5 @@
 % Statistics for rgglez/go-playground-recaptcha3-validator
-% Generated for [rgglez/go-playground-recaptcha3-validator](https://github.com/rgglez/go-playground-recaptcha3-validator) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-20 23:32 UTC.
+% Generated for [rgglez/go-playground-recaptcha3-validator](https://github.com/rgglez/go-playground-recaptcha3-validator) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-21 23:31 UTC.
 
 
 ## Views
