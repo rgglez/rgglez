@@ -1,5 +1,5 @@
 % Statistics for rgglez/svelte-frappe-charts
-% Generated for [rgglez/svelte-frappe-charts](https://github.com/rgglez/svelte-frappe-charts) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-21 23:47 UTC.
+% Generated for [rgglez/svelte-frappe-charts](https://github.com/rgglez/svelte-frappe-charts) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-22 23:46 UTC.
 
 
 ## Views
