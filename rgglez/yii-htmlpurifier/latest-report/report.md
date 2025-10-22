@@ -1,5 +1,5 @@
 % Statistics for rgglez/yii-htmlpurifier
-% Generated for [rgglez/yii-htmlpurifier](https://github.com/rgglez/yii-htmlpurifier) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-21 23:56 UTC.
+% Generated for [rgglez/yii-htmlpurifier](https://github.com/rgglez/yii-htmlpurifier) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-10-22 23:55 UTC.
 
 
 ## Views
