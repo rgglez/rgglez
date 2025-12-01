@@ -13,7 +13,7 @@ Here, you'll find various code snippets that I hope you'll find either useful or
 
 ### 🧭 Navigation Guide
 
-I use GitHub Topics to categorize my code:
+I use GitHub Topics to categorize my repositories:
 
 * ✨ **Original projects:** Non-forked repos with topics are programmed entirely by me.
 * 🔧 **Contributions:** Forked repos with topics feature my custom modifications.
