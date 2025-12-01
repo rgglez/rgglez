@@ -15,25 +15,6 @@ Repositories that are not forked and have tags were programmed by me. Forked rep
 
 ---
 
-### 💻 Professional Experience (brief version)
-
-#### **Developer | 25+ Years of Experience**  
-
-- Development of **static websites**, **SPAs**, and **SSR web applications**, including high-traffic distributed applications serving millions of users, involving multinational teams. **Architecture design** and **full-stack programming**.  
-- Development of **desktop applications** for **Microsoft Windows**.  
-
-#### **Systems Administrator | 25+ Years of Experience**  
-
-- **Cisco routers** configuration and management.  
-- **Dial-up ISP service** administration and configuration.  
-- **WAN** administration and optimization.  
-- **Satellite internet service** administration and installation.  
-- **GNU/Linux** system administration.  
-- **VMware ESXi** basic administration and maintenance.  
-- **Cloud administration** (**Amazon AWS**, **Alibaba Cloud (Aliyun)**, **Microsoft Azure**). 
-
----
-
 ### 💬 Contact me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/rggonzalez)
