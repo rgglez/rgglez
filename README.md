@@ -11,6 +11,8 @@ Welcome to my GitHub! I'm a computer science enthusiast with a special interest 
 
 Here, you'll find various code snippets that I hope you'll find either useful or instructive. The code includes components for Yii, Svelte, Go, Python, PHP and some other languages and frameworks, as well as several utilities and other helpful resources.
 
+---
+
 ### 🧭 Navigation Guide
 
 I use GitHub Topics to categorize my repositories:
