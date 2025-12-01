@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/github/followers/rgglez?style=flat">
 </p>
 
-Welcome to my GitHub! I'm a computer science enthusiast with a special interest in programming and systems administration.
-
-Here, you'll find various code snippets that I hope you'll find either useful or instructive. The code includes components for Yii, Svelte, Go, Python, PHP and some other languages and frameworks, as well as several utilities and other helpful resources.
+Welcome to my profile! I'm a computer science enthusiast with a special interest in programming and systems administration. This repository collection features software written in Javascript, Go, Python, and PHP, with significant experience demonstrated in frameworks such as Yii and Svelte.
 
 ---
 
