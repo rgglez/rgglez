@@ -15,8 +15,8 @@ Welcome to my profile! I'm a computer science enthusiast with a special interest
 
 I use GitHub Topics to categorize my repositories:
 
-* ✨ **Original projects:** Non-forked repos with topics are programmed entirely by me.
-* 🔧 **Contributions:** Forked repos with topics feature my custom modifications.
+* ✨ **Original projects:** Non-forked repos tagged with topics are programmed entirely by me.
+* 🔧 **Contributions:** Forked repos tagged with topics feature my custom modifications.
 * 📦 **Archives:** Untagged repositories are mirrored backups only.
 
 ---
