@@ -160,13 +160,13 @@ I use GitHub Topics to categorize my repositories:
 
 ### 📊 GitHub statistics
 
-<div align="center">
+<!-- div align="center">
   <a href="https://github.com/rgglez">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rgglez&show_icons=true" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=compact" />
     <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 100%; height: auto;" />    
   </a>  
-</div>
+</div -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rgglez&theme=onedark&row=2&column=4" alt="Trophies" />
