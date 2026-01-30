@@ -1,5 +1,5 @@
 % Statistics for rgglez/nagios-check-ssl-expiration
-% Generated for [rgglez/nagios-check-ssl-expiration](https://github.com/rgglez/nagios-check-ssl-expiration) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-01-30 16:42 UTC.
+% Generated for [rgglez/nagios-check-ssl-expiration](https://github.com/rgglez/nagios-check-ssl-expiration) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-01-30 23:29 UTC.
 
 
 ## Views
