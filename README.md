@@ -11,7 +11,7 @@ Welcome to my profile! I'm a computer science enthusiast with a special interest
 
 ---
 
-### 🧭 Navigation Guide
+## 🧭 Navigation Guide
 
 I use GitHub Topics to categorize my repositories:
 
@@ -21,16 +21,33 @@ I use GitHub Topics to categorize my repositories:
 
 ---
 
-### 💬 Contact me
+## 💬 Contact me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/rggonzalez)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)]([#](https://bmc.link/rggonzalez))
 
 ---
 
-### 🛠️ Tech Stack
+## Featured projects
 
-#### Main programming languages
+![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)
+![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)
+![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)
+![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)
+![gormcache](./profile/pin-gormcache-github-stats.svg)
+![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)
+![go-storage](./profile/pin-go-storage-github-stats.svg)
+![whois-parser-ai](./profile/pin-whois-parser-ai-github-stats.svg)
+![nagios-check-ssl-expiration](./profile/pin-nagios-check-ssl-expiration-github-stats.svg)
+![nagios-check-domain](./profile/pin-nagios-check-domain-github-stats.svg)
+![gofiber-recovery-middleware](./profile/pin-gofiber-recovery-middleware-github-stats.svg)
+![gofiber-recaptcha3-middleware ](./profile/pin-gofiber-recaptcha3-middleware-github-stats.svg)
+
+---
+
+## 🛠️ Tech Stack
+
+### Main programming languages
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![PHP](https://img.shields.io/badge/-PHP-777bb3?logo=PHP&logoColor=white)
@@ -41,7 +58,7 @@ I use GitHub Topics to categorize my repositories:
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ![SQL](https://img.shields.io/badge/-SQL-ffffff?logo=SQL&logoColor=black)
 
-#### Secondary programming languages
+### Secondary programming languages
 
 ![Prolog](https://img.shields.io/badge/-Prolog-195f97?logo=Prolog&logoColor=white)
 ![Lisp](https://img.shields.io/badge/-Lisp-195f97?logo=Lisp&logoColor=white)
@@ -54,7 +71,7 @@ I use GitHub Topics to categorize my repositories:
 ![Mathematica](https://img.shields.io/badge/-Mathematica-d21c00?logo=Mathematica&logoColor=white)
 ![Mathlab](https://img.shields.io/badge/-Mathlab-08609d?logo=Mathlab&logoColor=white)
 
-#### Design and markup tools
+### Design and markup tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e44d26?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=CSS&logoColor=white)
@@ -63,7 +80,7 @@ I use GitHub Topics to categorize my repositories:
 ![Docbook](https://img.shields.io/badge/-Docbook-005faf?logo=Docbook&logoColor=white)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
-#### Front- and back-end programming frameworks
+### Front- and back-end programming frameworks
 
 ![jQuery](https://img.shields.io/badge/-jQuery-0968a6?logo=jQuery&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?logo=Svelte&logoColor=white)
@@ -75,7 +92,7 @@ I use GitHub Topics to categorize my repositories:
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 
-#### Systems administration
+### Systems administration
 
 ![Apache](https://img.shields.io/badge/-Apache-b02050?logo=Apache&logoColor=white)
 ![nginx](https://img.shields.io/badge/-nginx-009901?logo=nginx&logoColor=white)
@@ -139,7 +156,7 @@ I use GitHub Topics to categorize my repositories:
 ![Moodle](https://img.shields.io/badge/-Moodle-ea812a?logo=Moodle&logoColor=white)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
 
-#### Hardware
+### Hardware
 
 ![PC](https://img.shields.io/badge/-PC-ffffff?logo=PC&logoColor=black)
 ![Sun](https://img.shields.io/badge/-Sun-ffffff?logo=SunMicrosystems&logoColor=black)
@@ -147,7 +164,7 @@ I use GitHub Topics to categorize my repositories:
 ![Livingston Portmaster](https://img.shields.io/badge/-Livingston%20Portmaster-9a6457?logo=Livingston&logoColor=white)
 ![Tachyon Networks](https://img.shields.io/badge/-Tachyon%20Networks-a02e52?logo=TachyonNetworks&logoColor=white)
 
-#### Creativity
+### Creativity
 
 ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-ffffff?logo=AbletonLive&logoColor=black)
 ![StudioOne](https://img.shields.io/badge/-StudioOne-ffffff?logo=Presonus&logoColor=black)
@@ -158,8 +175,7 @@ I use GitHub Topics to categorize my repositories:
 
 ---
 
-### 📊 GitHub statistics
+## 📊 Statistics
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-whois-parser-ai-github-readme-stats.svg)
