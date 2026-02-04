@@ -1,4 +1,4 @@
-# Sup, I'm Rodolfo González
+# 👋 Welcome
 <h3 align="center">💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</h3>
 
 <p align="center">
@@ -8,6 +8,20 @@
 </p>
 
 Welcome to my profile! I'm a computer science enthusiast with a special interest in programming and systems administration. This repository collection features software written in Javascript, Go, Python, C, PHP, and other languages, and frameworks such as Yii and Svelte.
+
+- [👋 Welcome](#-welcome)
+  - [🧭 Navigation Guide](#-navigation-guide)
+  - [💬 Contact me](#-contact-me)
+  - [🛠️ Tech Stack](#️-tech-stack)
+    - [Main programming languages](#main-programming-languages)
+    - [Secondary programming languages](#secondary-programming-languages)
+    - [Design and markup tools](#design-and-markup-tools)
+    - [Front- and back-end programming frameworks](#front--and-back-end-programming-frameworks)
+    - [Systems administration](#systems-administration)
+    - [Hardware](#hardware)
+    - [Creativity](#creativity)
+  - [✨ Featured projects](#-featured-projects)
+  - [📊 Statistics](#-statistics)
 
 ---
 
@@ -158,7 +172,7 @@ I use GitHub Topics to categorize my repositories:
 
 ---
 
-## Featured projects
+## ✨ Featured projects
 
 [![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)](https://github.com/rgglez/gettext-translator)
 [![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)](https://github.com/rgglez/svelte-i18n-gettext)
