@@ -1,4 +1,4 @@
-# 👋 rodolfo.gg | <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" />   <img src="https://img.shields.io/github/stars/rgglez?style=flat">   <img src="https://img.shields.io/github/followers/rgglez?style=flat">  
+# 👋 rodolfo.gg | <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" width="80"/> <img src="https://img.shields.io/github/stars/rgglez?style=flat" width="80"/> <img src="https://img.shields.io/github/followers/rgglez?style=flat" width="80"/> 
 
 <p align="center">
   <small>💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</small>
