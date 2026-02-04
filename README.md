@@ -1,4 +1,4 @@
-# 👋 rodolfo.gg | 💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster
+# 👋 rodolfo.gg | <small>💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</small>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" />   <img src="https://img.shields.io/github/stars/rgglez?style=flat">   <img src="https://img.shields.io/github/followers/rgglez?style=flat">  
