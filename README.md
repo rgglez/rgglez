@@ -1,10 +1,9 @@
-# 👋 rodolfo.gg
+# 👋 rodolfo.gg <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" />   <img src="https://img.shields.io/github/stars/rgglez?style=flat">   <img src="https://img.shields.io/github/followers/rgglez?style=flat">
+
 <h3 align="center">💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" />
-  <img src="https://img.shields.io/github/stars/rgglez?style=flat">
-  <img src="https://img.shields.io/github/followers/rgglez?style=flat">
+  
 </p>
 
 Welcome to my profile! I'm a computer science enthusiast with a special interest in programming and systems administration. This repository collection features software written in Javascript, Go, Python, C, PHP, and other languages, and frameworks such as Yii and Svelte.
