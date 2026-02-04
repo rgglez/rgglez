@@ -8,7 +8,6 @@ This collection of repositories features software written in JavaScript, Go, Pyt
 
 - [👋 rodolfo.gg](#-rodolfogg)
   - [🧭 Navigation Guide](#-navigation-guide)
-  - [💬 Contact me](#-contact-me)
   - [🛠️ Tech Stack](#️-tech-stack)
     - [Main programming languages](#main-programming-languages)
     - [Secondary programming languages](#secondary-programming-languages)
