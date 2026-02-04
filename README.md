@@ -27,7 +27,7 @@ I use GitHub Topics to categorize my repositories:
 * 🔧 **Contributions:** Forked repos tagged with topics feature my custom modifications.
 * 📦 **Archives:** Untagged repositories are mirrored backups only.
 
-Best viewd in dark mode 😎
+Best viewed in dark mode 😎
 
 ## 🛠️ Tech Stack
 
