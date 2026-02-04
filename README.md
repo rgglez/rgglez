@@ -162,7 +162,7 @@ I use GitHub Topics to categorize my repositories:
 
 [![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)](https://github.com/rgglez/gettext-translator)
 [![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)](https://github.com/rgglez/svelte-i18n-gettext)
-[![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)]()(https://github.com/rgglez/gettext-po2json)
+[![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)](https://github.com/rgglez/gettext-po2json)
 [![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)](https://github.com/rgglez/gettext-spellchecker)
 [![gormcache](./profile/pin-gormcache-github-stats.svg)](https://github.com/rgglez/gormcache)
 [![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)](https://github.com/rgglez/yii-webfeed)
