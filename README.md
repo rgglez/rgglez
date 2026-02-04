@@ -2,7 +2,7 @@
 <h3 align="center">💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" /> 
+  <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" />
   <img src="https://img.shields.io/github/stars/rgglez?style=flat">
   <img src="https://img.shields.io/github/followers/rgglez?style=flat">
 </p>
@@ -78,7 +78,7 @@ I use GitHub Topics to categorize my repositories:
 #### Systems administration
 
 ![Apache](https://img.shields.io/badge/-Apache-b02050?logo=Apache&logoColor=white)
-![nginx](https://img.shields.io/badge/-nginx-009901?logo=nginx&logoColor=white) 
+![nginx](https://img.shields.io/badge/-nginx-009901?logo=nginx&logoColor=white)
 ![lighttpd](https://img.shields.io/badge/-lighttpd-366680?logo=lighttpd&logoColor=white)
 ![ProFTPd](https://img.shields.io/badge/-ProFTPd-ff0000?logo=ProFTPd&logoColor=white)
 ![Postfix](https://img.shields.io/badge/-Postfix-cb171e?logo=postfix&logoColor=white)
@@ -160,16 +160,6 @@ I use GitHub Topics to categorize my repositories:
 
 ### 📊 GitHub statistics
 
-*Comming back soon :)*
-
-<!-- div align="center">
-  <a href="https://github.com/rgglez">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rgglez&show_icons=true" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgglez&layout=compact" />
-    <img src="https://streak-stats.demolab.com/?user=rgglez" alt="GitHub Streak" style="max-width: 100%; height: auto;" />    
-  </a>  
-</div -->
-
-<!-- p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rgglez&theme=onedark&row=2&column=4" alt="Trophies" />
-</p -->
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
