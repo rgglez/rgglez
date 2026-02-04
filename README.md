@@ -1,4 +1,4 @@
-# rodolfo.gg | <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" style="height:16px!important;" /> <img src="https://img.shields.io/github/stars/rgglez?style=flat" style="height:16px!important;" /> <img src="https://img.shields.io/github/followers/rgglez?style=flat" style="height:16px!important;" /> <a href="https://linkedin.com/in/rggonzalez" alt="LinkedIn"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="height:16px!important;" /></a> 
+<h1>rodolfo.gg | <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" style="height:16px!important;" /> <img src="https://img.shields.io/github/stars/rgglez?style=flat" style="height:16px!important;" /> <img src="https://img.shields.io/github/followers/rgglez?style=flat" style="height:16px!important;" /> <a href="https://linkedin.com/in/rggonzalez" alt="LinkedIn"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="height:16px!important;" /></a></h1>
 
 <p align="center">
   <small>💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</small>
@@ -6,18 +6,18 @@
 
 This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte.
 
-- [rodolfo.gg](#-rodolfogg)
-  - [🧭 Navigation Guide](#-navigation-guide)
-  - [🛠️ Tech Stack](#️-tech-stack)
-    - [Main programming languages](#main-programming-languages)
-    - [Secondary programming languages](#secondary-programming-languages)
-    - [Design and markup tools](#design-and-markup-tools)
-    - [Front- and back-end programming frameworks](#front--and-back-end-programming-frameworks)
-    - [Systems administration](#systems-administration)
-    - [Hardware](#hardware)
-    - [Creativity](#creativity)
-  - [✨ Featured projects](#-featured-projects)
-  - [📊 Statistics](#-statistics)
+- [🧭 Navigation Guide](#-navigation-guide)
+- [🛠️ Tech Stack](#️-tech-stack)
+  - [Main programming languages](#main-programming-languages)
+  - [Secondary programming languages](#secondary-programming-languages)
+  - [Design and markup tools](#design-and-markup-tools)
+  - [Front- and back-end programming frameworks](#front--and-back-end-programming-frameworks)
+  - [Systems administration](#systems-administration)
+  - [Hardware](#hardware)
+  - [Creativity](#creativity)
+- [✨ Featured projects](#-featured-projects)
+- [📊 Statistics](#-statistics)
+- [🍕 Support me](#-support-me)
 
 ## 🧭 Navigation Guide
 
@@ -177,6 +177,6 @@ Best viewed in dark mode 😎
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-## Support me
+## 🍕 Support me
 
 <a href="https://bmc.link/rggonzalez" alt="Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" style="height:16px!important;" /></a>
