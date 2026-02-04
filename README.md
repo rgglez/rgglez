@@ -4,6 +4,8 @@
   <small>💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</small>
 </p>
 
+This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte.
+
 - [👋 rodolfo.gg](#-rodolfogg)
   - [🧭 Navigation Guide](#-navigation-guide)
   - [💬 Contact me](#-contact-me)
