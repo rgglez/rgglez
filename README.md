@@ -162,4 +162,4 @@ I use GitHub Topics to categorize my repositories:
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Pinned](./profile/pin-whois-parser-ai-github-readme-stats.svg)
