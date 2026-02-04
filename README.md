@@ -175,17 +175,17 @@ I use GitHub Topics to categorize my repositories:
 ## ✨ Featured projects
 
 [![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)](https://github.com/rgglez/gettext-translator)
-[![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)](https://github.com/rgglez/svelte-i18n-gettext)
 [![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)](https://github.com/rgglez/gettext-po2json)
-[![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)](https://github.com/rgglez/gettext-spellchecker)
 [![gormcache](./profile/pin-gormcache-github-stats.svg)](https://github.com/rgglez/gormcache)
-[![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)](https://github.com/rgglez/yii-webfeed)
-[![go-storage](./profile/pin-go-storage-github-stats.svg)](https://github.com/rgglez/go-storage)
 [![whois-parser-ai](./profile/pin-whois-parser-ai-github-stats.svg)](https://github.com/rgglez/whois-parser-ai)
 [![nagios-check-ssl-expiration](./profile/pin-nagios-check-ssl-expiration-github-stats.svg)](https://github.com/rgglez/nagios-check-ssl-expiration)
 [![nagios-check-domain](./profile/pin-nagios-check-domain-github-stats.svg)](https://github.com/rgglez/nagios-check-domain)
 [![gofiber-recovery-middleware](./profile/pin-gofiber-recovery-middleware-github-stats.svg)](https://github.com/rgglez/gofiber-recovery-middleware)
 [![gofiber-recaptcha3-middleware ](./profile/pin-gofiber-recaptcha3-middleware-github-stats.svg)](https://github.com/rgglez/gofiber-recaptcha3-middleware)
+[![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)](https://github.com/rgglez/svelte-i18n-gettext)
+[![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)](https://github.com/rgglez/gettext-spellchecker)
+[![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)](https://github.com/rgglez/yii-webfeed)
+[![go-storage](./profile/pin-go-storage-github-stats.svg)](https://github.com/rgglez/go-storage)
 
 ---
 
