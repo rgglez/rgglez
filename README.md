@@ -6,7 +6,7 @@
 
 This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte.
 
-- [👋 rodolfo.gg](#-rodolfogg)
+- [rodolfo.gg](#-rodolfogg)
   - [🧭 Navigation Guide](#-navigation-guide)
   - [🛠️ Tech Stack](#️-tech-stack)
     - [Main programming languages](#main-programming-languages)
