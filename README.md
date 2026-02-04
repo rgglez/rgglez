@@ -4,8 +4,6 @@
   <small>💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</small>
 </p>
 
-Welcome to my profile! I'm a computer science enthusiast with a special interest in programming and systems administration. This repository collection features software written in Javascript, Go, Python, C, PHP, and other languages, and frameworks such as Yii and Svelte.
-
 - [👋 rodolfo.gg](#-rodolfogg)
   - [🧭 Navigation Guide](#-navigation-guide)
   - [💬 Contact me](#-contact-me)
@@ -27,6 +25,8 @@ I use GitHub Topics to categorize my repositories:
 * ✨ **Original projects:** Non-forked repos tagged with topics are programmed entirely by me.
 * 🔧 **Contributions:** Forked repos tagged with topics feature my custom modifications.
 * 📦 **Archives:** Untagged repositories are mirrored backups only.
+
+Best viewd in dark mode 😎
 
 ## 💬 Contact me
 
