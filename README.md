@@ -28,23 +28,6 @@ I use GitHub Topics to categorize my repositories:
 
 ---
 
-## Featured projects
-
-![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)
-![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)
-![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)
-![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)
-![gormcache](./profile/pin-gormcache-github-stats.svg)
-![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)
-![go-storage](./profile/pin-go-storage-github-stats.svg)
-![whois-parser-ai](./profile/pin-whois-parser-ai-github-stats.svg)
-![nagios-check-ssl-expiration](./profile/pin-nagios-check-ssl-expiration-github-stats.svg)
-![nagios-check-domain](./profile/pin-nagios-check-domain-github-stats.svg)
-![gofiber-recovery-middleware](./profile/pin-gofiber-recovery-middleware-github-stats.svg)
-![gofiber-recaptcha3-middleware ](./profile/pin-gofiber-recaptcha3-middleware-github-stats.svg)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Main programming languages
@@ -172,6 +155,23 @@ I use GitHub Topics to categorize my repositories:
 ![Adobe Premier](https://img.shields.io/badge/-Adobe%20Premier-ea0f00?logo=Adobe&logoColor=white)
 ![Gimp](https://img.shields.io/badge/-Gimp-868372?logo=Gimp&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-ea0f00?logo=Adobe&logoColor=white)
+
+---
+
+## Featured projects
+
+[![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)](https://github.com/rgglez/gettext-translator)
+[![svelte-i18n-gettext](./profile/pin-svelte-i18n-gettext-github-stats.svg)](https://github.com/rgglez/svelte-i18n-gettext)
+[![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)]()(https://github.com/rgglez/gettext-po2json)
+[![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)](https://github.com/rgglez/gettext-spellchecker)
+[![gormcache](./profile/pin-gormcache-github-stats.svg)](https://github.com/rgglez/gormcache)
+[![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)](https://github.com/rgglez/yii-webfeed)
+[![go-storage](./profile/pin-go-storage-github-stats.svg)](https://github.com/rgglez/go-storage)
+[![whois-parser-ai](./profile/pin-whois-parser-ai-github-stats.svg)](https://github.com/rgglez/whois-parser-ai)
+[![nagios-check-ssl-expiration](./profile/pin-nagios-check-ssl-expiration-github-stats.svg)](https://github.com/rgglez/nagios-check-ssl-expiration)
+[![nagios-check-domain](./profile/pin-nagios-check-domain-github-stats.svg)](https://github.com/rgglez/nagios-check-domain)
+[![gofiber-recovery-middleware](./profile/pin-gofiber-recovery-middleware-github-stats.svg)](https://github.com/rgglez/gofiber-recovery-middleware)
+[![gofiber-recaptcha3-middleware ](./profile/pin-gofiber-recaptcha3-middleware-github-stats.svg)](https://github.com/rgglez/gofiber-recaptcha3-middleware)
 
 ---
 
