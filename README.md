@@ -23,8 +23,6 @@ Welcome to my profile! I'm a computer science enthusiast with a special interest
   - [✨ Featured projects](#-featured-projects)
   - [📊 Statistics](#-statistics)
 
----
-
 ## 🧭 Navigation Guide
 
 I use GitHub Topics to categorize my repositories:
@@ -33,14 +31,10 @@ I use GitHub Topics to categorize my repositories:
 * 🔧 **Contributions:** Forked repos tagged with topics feature my custom modifications.
 * 📦 **Archives:** Untagged repositories are mirrored backups only.
 
----
-
 ## 💬 Contact me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/rggonzalez)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)]([#](https://bmc.link/rggonzalez))
-
----
 
 ## 🛠️ Tech Stack
 
@@ -170,8 +164,6 @@ I use GitHub Topics to categorize my repositories:
 ![Gimp](https://img.shields.io/badge/-Gimp-868372?logo=Gimp&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-ea0f00?logo=Adobe&logoColor=white)
 
----
-
 ## ✨ Featured projects
 
 [![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)](https://github.com/rgglez/gettext-translator)
@@ -186,8 +178,6 @@ I use GitHub Topics to categorize my repositories:
 [![gettext-spellchecker](./profile/pin-gettext-spellchecker-github-stats.svg)](https://github.com/rgglez/gettext-spellchecker)
 [![yii-webfeed](./profile/pin-yii-webfeed-github-stats.svg)](https://github.com/rgglez/yii-webfeed)
 [![go-storage](./profile/pin-go-storage-github-stats.svg)](https://github.com/rgglez/go-storage)
-
----
 
 ## 📊 Statistics
 
