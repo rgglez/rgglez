@@ -4,7 +4,7 @@
   <small>💻 Developer | 🐧 Sysadmin | ☁️ Cloudadmin | 🌐 Webmaster</small>
 </p>
 
-This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte.
+This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte. Best viewed in dark mode 😎
 
 - [🧭 Navigation Guide](#-navigation-guide)
 - [🛠️ Tech Stack](#️-tech-stack)
@@ -26,8 +26,6 @@ I use GitHub Topics to categorize my repositories:
 * ✨ **Original projects:** Non-forked repos tagged with topics are programmed entirely by me.
 * 🔧 **Contributions:** Forked repos tagged with topics feature my custom modifications.
 * 📦 **Archives:** Untagged repositories are mirrored backups only.
-
-Best viewed in dark mode 😎
 
 ## 🛠️ Tech Stack
 
