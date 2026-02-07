@@ -1,25 +1,53 @@
-name: Recent activity
-
+name: Recent Activity Metrics
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
-  workflow_dispatch:
-
+    - cron: "0 0 * * *"  # Ejecuta diariamente a medianoche UTC
+  workflow_dispatch:  # Permite ejecución manual
 
 jobs:
-  build:
+  update-metrics:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: write  # Correcto para escribir archivos
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-            filename: profile/metrics.plugin.activity.svg
-            token: ${{ secrets.GITHUB_TOKEN }}
-            base: ""
-            plugin_activity: yes
-            plugin_activity_limit: 5
-            plugin_activity_days: 0
-            plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          fetch-depth: 0  # Importante para métricas históricas
+
+      - name: Generate activity metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Configuración básica
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}  # O especifica tu usuario
+
+          # Configuración de archivos de salida
+          filename: profile/activity.svg  # Ruta relativa
+
+          # Configuración específica de actividad
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14  # Recomendado: mostrar 14 días
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+          # Opciones adicionales recomendadas
+          config_display: inline  # Formato inline para README
+          config_animation: yes  # Animaciones suaves
+          plugin_activity_skipped: not_merged  # Ocultar PRs no mergeados
+          plugin_activity_timestamps: yes  # Mostrar timestamps
+          plugin_activity_visibility: public  # Solo actividad pública
+
+          # Personalización visual
+          plugin_activity_density: medium
+          plugin_activity_responsive: yes
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add metrics/
+          git commit -m "📊 Update activity metrics [skip ci]" || echo "No changes to commit"
+          git push
