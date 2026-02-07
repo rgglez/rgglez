@@ -31,7 +31,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14  # Recomendado: mostrar 14 días
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_filter: all
 
           # Opciones adicionales recomendadas
           config_display: inline  # Formato inline para README
