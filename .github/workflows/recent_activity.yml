@@ -26,8 +26,7 @@ jobs:
 
           # Plugin de lenguajes (muy estable)
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_recent_load: 300
+          plugin_languages_limit: 20
           plugin_languages_sections: most-used
 
           repositories_skipped: >-
