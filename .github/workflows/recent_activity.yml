@@ -21,7 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Configuración básica
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}  # O especifica tu usuario
 
           # Configuración de archivos de salida
