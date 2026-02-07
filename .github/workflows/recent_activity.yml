@@ -17,7 +17,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
           user: ${{ github.repository_owner }}
           filename: profile/activity.svg
 
