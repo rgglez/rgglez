@@ -19,26 +19,31 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: profile/activity.svg
 
-          # Métricas básicas
+          # Métricas básicas (incluye total de stars automáticamente)
           base: activity, community, repositories
 
           # Plugin de lenguajes
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
 
-          # Plugin de stars ⭐
-          plugin_stars: yes
-          plugin_stars_limit: 4  # Número de repos con más stars a mostrar
+          # Gráfico de stars que HAN RECIBIDO tus repos
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.ghrs_github_api_token }}
+          plugin_stargazers_worldmap_sample: 200
 
-          config_timezone: America/Mexico_City
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update metrics [skip ci]" || exit 0
-          git push
+          # Excluir repositorios privados (si los tienes)
+          repositories_skipped: >-
+            rgglez-unir-ai-master,
+            klanet-configurator,
+            games-syg,
+            kapta-simpleform,
+            yama
