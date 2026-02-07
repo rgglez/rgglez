@@ -1,4 +1,4 @@
-name: fetch-repository-stats
+name: Fetch Repository Stats
 concurrency: fetch-repository-stats
 
 on:
