@@ -174,6 +174,7 @@ I use GitHub Topics to categorize my repositories:
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+![Metrics Activity](./metrics.plugin.activity.svg)
 
 ## 🍕 Support me
 

@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-            filename: metrics.plugin.activity.svg
+            filename: profile/metrics.plugin.activity.svg
             token: ${{ secrets.GITHUB_TOKEN }}
             base: ""
             plugin_activity: yes
