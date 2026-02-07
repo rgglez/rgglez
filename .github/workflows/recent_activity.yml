@@ -1,35 +1,43 @@
 name: Recent Activity Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Ejecuta diariamente a medianoche UTC
+  workflow_dispatch:  # Permite ejecución manual
 
 jobs:
   update-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate activity metrics
         uses: lowlighter/metrics@latest
         with:
-          # --- Configuración de Autenticación ---
-          token: ${{ secrets.METRICS_TOKEN }} # Se recomienda usar un PAT (Personal Access Token)
-
-          # --- Configuración de Destino ---
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
-          filename: github-metrics-activity.svg # Nombre del archivo
-          base: "" # No genera las estadísticas base (repo, estrellas), solo el plugin
+          filename: profile/activity.svg
 
-          # --- Plugin: Activity ---
+          # Plugin de actividad reciente
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_visibility: public
-          plugin_activity_timestamps: yes
 
-          # --- Ajustes de Salida ---
-          config_display: inline
-          committer_ghost: yes # Realiza el commit como github-actions[bot] automáticamente
+          # Configuración base (importante para evitar errores)
+          base: ""
+          config_timezone: America/Mexico_City
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update activity metrics [skip ci]" || exit 0
+          git push
