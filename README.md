@@ -172,8 +172,8 @@ I use GitHub Topics to categorize my repositories:
 
 ## 📊 Statistics
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<!-- ![Stats](./profile/stats.svg) -->
+<!-- ![Top Languages](./profile/top-langs.svg) -->
 ![Metrics Activity](./profile/activity.svg)
 
 ## 🍕 Support me
