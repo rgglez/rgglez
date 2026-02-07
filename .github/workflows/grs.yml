@@ -107,7 +107,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-ssl-expiration
+          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-ssl-expiration
           path: profile/pin-nagios-check-ssl-expiration-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

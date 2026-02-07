@@ -22,6 +22,8 @@ jobs:
           # Métricas básicas (incluye total de stars automáticamente)
           base: activity, community, repositories
 
+          repositories_forks: owner
+
           # Plugin de lenguajes
           plugin_languages: yes
           plugin_languages_limit: 15
