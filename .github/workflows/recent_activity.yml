@@ -1,48 +1,35 @@
 name: Recent Activity Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecuta diariamente a medianoche UTC
-  workflow_dispatch:  # Permite ejecución manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-metrics:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write  # Correcto para escribir archivos
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Importante para métricas históricas
-
       - name: Generate activity metrics
         uses: lowlighter/metrics@latest
         with:
-          # Configuración básica
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}  # O especifica tu usuario
+          # --- Configuración de Autenticación ---
+          token: ${{ secrets.METRICS_TOKEN }} # Se recomienda usar un PAT (Personal Access Token)
 
-          # Configuración de archivos de salida
-          filename: profile/activity.svg  # Ruta relativa
+          # --- Configuración de Destino ---
+          user: ${{ github.repository_owner }}
+          filename: github-metrics-activity.svg # Nombre del archivo
+          base: "" # No genera las estadísticas base (repo, estrellas), solo el plugin
 
-          # Configuración específica de actividad
+          # --- Plugin: Activity ---
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14  # Recomendado: mostrar 14 días
+          plugin_activity_days: 14
           plugin_activity_filter: all
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
 
-          # Opciones adicionales recomendadas
-          config_display: inline  # Formato inline para README
-          plugin_activity_skipped: not_merged  # Ocultar PRs no mergeados
-          plugin_activity_timestamps: yes  # Mostrar timestamps
-          plugin_activity_visibility: public  # Solo actividad pública
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update stats" || exit 0
-          git push
+          # --- Ajustes de Salida ---
+          config_display: inline
+          committer_ghost: yes # Realiza el commit como github-actions[bot] automáticamente
