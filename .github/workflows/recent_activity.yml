@@ -35,14 +35,9 @@ jobs:
 
           # Opciones adicionales recomendadas
           config_display: inline  # Formato inline para README
-          config_animation: yes  # Animaciones suaves
           plugin_activity_skipped: not_merged  # Ocultar PRs no mergeados
           plugin_activity_timestamps: yes  # Mostrar timestamps
           plugin_activity_visibility: public  # Solo actividad pública
-
-          # Personalización visual
-          plugin_activity_density: medium
-          plugin_activity_responsive: yes
 
       - name: Commit and push changes
         run: |
