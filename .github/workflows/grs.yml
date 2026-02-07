@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=nord&bg_color=00000000
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=nord&bg_color=00000000
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=00000000
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-translator
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-translator
           path: profile/pin-gettext-translator-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=svelte-i18n-gettext
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=svelte-i18n-gettext
           path: profile/pin-svelte-i18n-gettext-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -51,7 +51,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-po2json
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-po2json
           path: profile/pin-gettext-po2json-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -59,7 +59,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-spellchecker
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-spellchecker
           path: profile/pin-gettext-spellchecker-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -67,7 +67,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gormcache
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gormcache
           path: profile/pin-gormcache-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -75,7 +75,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=yii-webfeed
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=yii-webfeed
           path: profile/pin-yii-webfeed-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -83,7 +83,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=go-storage
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=go-storage
           path: profile/pin-go-storage-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -91,7 +91,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=whois-parser-ai
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=whois-parser-ai
           path: profile/pin-whois-parser-ai-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -99,7 +99,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=whois-parser-ai
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=whois-parser-ai
           path: profile/pin-whois-parser-ai-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -107,7 +107,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-ssl-expiration
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-ssl-expiration
           path: profile/pin-nagios-check-ssl-expiration-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -115,7 +115,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-domain
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-domain
           path: profile/pin-nagios-check-domain-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -123,7 +123,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gofiber-recovery-middleware
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gofiber-recovery-middleware
           path: profile/pin-gofiber-recovery-middleware-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -131,7 +131,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: theme=nord&bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gofiber-recaptcha3-middleware
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gofiber-recaptcha3-middleware
           path: profile/pin-gofiber-recaptcha3-middleware-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
