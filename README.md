@@ -51,7 +51,7 @@ I use GitHub Topics to categorize my repositories:
 ![Assembly](https://img.shields.io/badge/-Assembly%208088-000000?logo=Assembly&logoColor=white)
 ![VB](https://img.shields.io/badge/-VisualBasic-195f97?logo=VB&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/-Mathematica-d21c00?logo=Mathematica&logoColor=white)
-![Mathlab](https://img.shields.io/badge/-Mathlab-08609d?logo=Mathlab&logoColor=white)
+![Mathlab](https://img.shields.io/badge/-Matlab-08609d?logo=Matlab&logoColor=white)
 
 ### Design and markup tools
 
