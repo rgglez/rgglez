@@ -47,12 +47,12 @@ jobs:
           path: profile/pin-svelte-i18n-gettext-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate gettext-po2json pin card
+      - name: Generate geonames-loader pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-po2json
-          path: profile/pin-gettext-po2json-github-stats.svg
+          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=geonames-loader
+          path: profile/pin-geonames-loader-github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate gettext-spellchecker pin card
