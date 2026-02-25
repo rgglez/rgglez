@@ -154,7 +154,7 @@ I use GitHub Topics to categorize my repositories:
 ## ✨ Featured projects
 
 [![gettext-translator](./profile/pin-gettext-translator-github-stats.svg)](https://github.com/rgglez/gettext-translator)
-[![gettext-po2json](./profile/pin-gettext-po2json-github-stats.svg)](https://github.com/rgglez/gettext-po2json)
+[![geonames-loader](./profile/pin-geonames-loader-github-stats.svg)](https://github.com/rgglez/geonames-loader)
 [![gormcache](./profile/pin-gormcache-github-stats.svg)](https://github.com/rgglez/gormcache)
 [![whois-parser-ai](./profile/pin-whois-parser-ai-github-stats.svg)](https://github.com/rgglez/whois-parser-ai)
 [![nagios-check-ssl-expiration](./profile/pin-nagios-check-ssl-expiration-github-stats.svg)](https://github.com/rgglez/nagios-check-ssl-expiration)
