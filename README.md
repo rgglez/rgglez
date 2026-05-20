@@ -1,8 +1,7 @@
 <h1>rodolfo.gg | <img src="https://komarev.com/ghpvc/?username=rgglez&label=Profile%20views&color=0e75b6&style=flat" alt="rgglez" style="height:16px!important;" /> <img src="https://img.shields.io/github/stars/rgglez?style=flat" style="height:16px!important;" /> <img src="https://img.shields.io/github/followers/rgglez?style=flat" style="height:16px!important;" /> <a href="https://linkedin.com/in/rggonzalez" alt="LinkedIn"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" style="height:16px!important;" /></a></h1>
 
-This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte. Best viewed in dark mode 😎
+This collection of repositories features software written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii and Svelte.
 
-- [🧭 Navigation Guide](#-navigation-guide)
 - [🛠️ Tech Stack](#️-tech-stack)
   - [Main programming languages](#main-programming-languages)
   - [Secondary programming languages](#secondary-programming-languages)
@@ -14,14 +13,6 @@ This collection of repositories features software written in JavaScript, Go, Pyt
 - [✨ Featured projects](#-featured-projects)
 - [📊 Statistics](#-statistics)
 - [🍕 Support me](#-support-me)
-
-## 🧭 Navigation Guide
-
-I use GitHub Topics to categorize my repositories:
-
-* ✨ **Original projects:** Non-forked repos tagged with topics are programmed entirely by me.
-* 🔧 **Contributions:** Forked repos tagged with topics feature my custom modifications.
-* 📦 **Archives:** Untagged repositories are mirrored backups only.
 
 ## 🛠️ Tech Stack
 
