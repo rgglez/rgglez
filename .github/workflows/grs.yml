@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=00000000
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate gettext-translator pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -37,7 +37,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-translator
           path: profile/pin-gettext-translator-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate svelte-i18n-gettext pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -45,7 +45,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=svelte-i18n-gettext
           path: profile/pin-svelte-i18n-gettext-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate geonames-loader pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -53,7 +53,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=geonames-loader
           path: profile/pin-geonames-loader-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate gettext-spellchecker pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -61,7 +61,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gettext-spellchecker
           path: profile/pin-gettext-spellchecker-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate gormcache pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -69,7 +69,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gormcache
           path: profile/pin-gormcache-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate yii-webfeed pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -77,7 +77,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=yii-webfeed
           path: profile/pin-yii-webfeed-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate go-storage pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -85,7 +85,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=go-storage
           path: profile/pin-go-storage-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate whois-parser-ai pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -93,15 +93,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=whois-parser-ai
           path: profile/pin-whois-parser-ai-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate gormcache pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=whois-parser-ai
-          path: profile/pin-whois-parser-ai-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate nagios-check-ssl-expiration pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -109,7 +101,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-ssl-expiration
           path: profile/pin-nagios-check-ssl-expiration-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate nagios-check-domain pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -117,7 +109,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=nagios-check-domain
           path: profile/pin-nagios-check-domain-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate gofiber-recovery-middleware pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -125,7 +117,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gofiber-recovery-middleware
           path: profile/pin-gofiber-recovery-middleware-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Generate gofiber-recaptcha3-middleware pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -133,7 +125,7 @@ jobs:
           card: pin
           options: bg_color=00000000&description_lines_count=2&username=${{ github.repository_owner }}&repo=gofiber-recaptcha3-middleware
           path: profile/pin-gofiber-recaptcha3-middleware-github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ghrs_github_api_token }}
 
       - name: Commit cards
         run: |
