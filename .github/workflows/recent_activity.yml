@@ -9,9 +9,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
