@@ -19,7 +19,10 @@ jobs:
           # Métricas básicas (incluye total de stars automáticamente)
           base: activity, community, repositories
 
-          repositories_forks: owner
+          # 100 repos por query = timeout de la API GraphQL -> nodes vacío
+          repositories_batch: 20
+          repositories_forks: no
+          repositories_affiliations: owner
 
           # Plugin de lenguajes
           plugin_languages: yes
