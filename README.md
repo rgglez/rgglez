@@ -2,18 +2,6 @@
 
 My repositories feature open source software I've written in JavaScript, Go, Python, C, PHP, and other languages, as well as frameworks such as Yii or Svelte. Forked repositories include code improvements or updates made by me.
 
-- [🛠️ Tech Stack](#️-tech-stack)
-  - [Main programming languages](#main-programming-languages)
-  - [Secondary programming languages](#secondary-programming-languages)
-  - [Design and markup tools](#design-and-markup-tools)
-  - [Front- and back-end programming frameworks](#front--and-back-end-programming-frameworks)
-  - [Systems administration](#systems-administration)
-  - [Hardware](#hardware)
-  - [Creativity](#creativity)
-- [✨ Featured projects](#-featured-projects)
-- [📊 Statistics](#-statistics)
-- [🍕 Support me](#-support-me)
-
 ## 🛠️ Tech Stack
 
 ### Main programming languages
