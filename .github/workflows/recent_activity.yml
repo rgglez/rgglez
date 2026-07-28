@@ -23,14 +23,12 @@ jobs:
 
           # Plugin de lenguajes
           plugin_languages: yes
-          plugin_languages_limit: 15
+          plugin_languages_limit: 8          # máximo permitido
+          plugin_languages_other: yes        # agrupa el resto en "Other"
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: no
-          plugin_languages_categories: markup, programming, data
           plugin_languages_colors: github
-          plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_skipped: ""  # No omitir ningún lenguaje
+          plugin_languages_details: bytes-size, percentage
 
           # Gráfico de stars que HAN RECIBIDO tus repos
           plugin_stargazers: yes
@@ -46,4 +44,5 @@ jobs:
             klanet-configurator,
             games-syg,
             kapta-simpleform,
+            rgglez-website,
             yama
