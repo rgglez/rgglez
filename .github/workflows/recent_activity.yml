@@ -44,6 +44,8 @@ jobs:
           # Excluir repositorios privados (si los tienes)
           repositories_skipped: >-
             rgglez-unir-ai-master,
+            unir-modam-2080d-iia-actividad2,
+            unir-nlp-actividad1-corpus-ampliado,
             klanet-configurator,
             games-syg,
             kapta-simpleform,
